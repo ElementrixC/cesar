@@ -1,3 +1,5 @@
+//Samson APLOGAN
+
 #include <iostream>
 using namespace std ;
 
